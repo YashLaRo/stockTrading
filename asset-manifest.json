@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stockTrading/static/css/main.f855e6bc.css",
+    "main.js": "/stockTrading/static/js/main.c80f5c76.js",
+    "static/js/453.c7e98701.chunk.js": "/stockTrading/static/js/453.c7e98701.chunk.js",
+    "static/media/logo.svg": "/stockTrading/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/stockTrading/index.html",
+    "main.f855e6bc.css.map": "/stockTrading/static/css/main.f855e6bc.css.map",
+    "main.c80f5c76.js.map": "/stockTrading/static/js/main.c80f5c76.js.map",
+    "453.c7e98701.chunk.js.map": "/stockTrading/static/js/453.c7e98701.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c80f5c76.js"
+  ]
+}
