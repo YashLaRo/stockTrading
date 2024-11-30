@@ -10,8 +10,8 @@ export const TradingViewChart = () => {
 
     script.onload = () => {
       new window.TradingView.widget({
-        "width": 980,
-        "height": 610,
+        "width": 479,
+        "height": 600,
         "symbol": "NASDAQ:AAPL",
         "interval": "D",
         "timezone": "Etc/UTC",
