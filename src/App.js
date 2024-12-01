@@ -5,7 +5,6 @@ import { TradingViewChart } from './Components/tradindview';
 function App() {
   return (
     <div className="App">
-      <h6>Be the one</h6>
       <TradingViewChart/>
     </div>
   );
