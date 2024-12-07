@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "stocktrading-b0f70"
-  }
+    "default": "sharetrading-1cd43",
+    "shareTrade": "sharetrading-1cd43"
+  },
+  "targets": {},
+  "etags": {}
 }

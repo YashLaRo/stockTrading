@@ -32,6 +32,7 @@ export const TradingViewChart = () => {
 
   return (
     <div className="tradingview-widget-container">
+      <h2>Done i think</h2>
       <div id="tradingview_12345"></div>
     </div>
   );
